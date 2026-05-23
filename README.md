@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Trustabl" width="100%">
+  <img src="https://raw.githubusercontent.com/jhumel-code/trustabl/main/assets/banner-rules.png" alt="Trustabl" width="100%">
 </p>
 
 This repository holds the detection rule packs for
