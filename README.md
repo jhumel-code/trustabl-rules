@@ -1,4 +1,6 @@
-# Trustabl detection rules
+<p align="center">
+  <img src="banner.png" alt="Trustabl" width="100%">
+</p>
 
 This repository holds the detection rule packs for
 [**Trustabl**](https://github.com/trustabl/trustabl), the static analyzer for
